@@ -59,7 +59,7 @@ nav li {
 
 nav a {
     display: block;
-  padding: 2em;
+  padding: 1em;
 }
 
 header li:hover {
@@ -94,7 +94,6 @@ h2 {
 }
 
 .projects {
-    height: 120vh;
     background-color: #45567D;
 }
 
