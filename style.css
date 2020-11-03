@@ -121,7 +121,31 @@ h2 {
     background-color: #303841;
     text-align: center;
     font-size: 20px;
+    font-weight: bolder;
 }
 
+.projects a {
+    margin-bottom: 2em;
+}
+
+img {
+    vertical-align: middle
+}
+
+.btn {
+    display: inline-block;
+  padding: 1rem 2rem;
+  border-radius: 2px
+}
+
+.btn-show-all {
+    font-size: 2rem;
+    background-color: #303841;
+    margin: auto;
+}
+
+.btn-show-all > i {
+    margin-left: 10px;
+  }
 
 
